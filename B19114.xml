@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the prizing of vvines.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19114</idno><idno type="EEBO-CITATION">99885840</idno>
+  <idno type="VID">185886</idno>
+  <idno type="EEBO-PROQUEST">2240895247</idno>
+  
+            <idno type="STC">Wing C2620</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.1[49]</idno>
+            <idno type="STC">ESTC R225090</idno>
+            <idno type="PROQUEST">ocm99885840</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885840e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19114)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185886)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C3:1[48])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the prizing of vvines.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Majestie: And by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Date of publication according to Lady Day dating.</note>
+                  <note>Arms 24.</note>
+                  <note>Imperfect as filmed? Cropped at foot of leaf [1] affecting text?</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wines and wine-making --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:185886:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head type="sub">❧ A Proclamation for the prizing of Wines.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas by the Statute made in the eight and twentieth yeer of</hi> the reign of King <hi>HENRY</hi> the eight for prizing of Wines, it is provided, that the Lord Chancellour, Lord Treasurer, Lord President of the Kings most honourable Councell, Lord Privie Seal, and the Lords chief Iustices of either Bench, or five, four, or three of them, shall have power and authority by their discretions, to set the prizes of all kinde of Wines, as in the said Statute is expressed: And whereas the Lord keeper of the great Seal of <hi>England,</hi> the Lord chief Iustice of the Kings Bench, and the Lord chief Iustice of the Common-Pleas, the nine and twentieth day of December last past, upon conside<g ref="char:EOLhyphen"/>ration of the Prizes that Wines bear this yeer in forraign parts, did order, That Canary Wines, and Allegant should be sold in grosse at eighteen pounds the Pipe, and Musca<g ref="char:EOLhyphen"/>dels in grosse at eighteen pounds the Butt, and at twelve pence the quart by Retail: Sacks and Mallagoes at sixteen pounds the Butt in grosse, and at eleven pence the quart by Retail: the best Gascoin and French Wines at eighteen pounds the Tun, and the Ro<g ref="char:EOLhyphen"/>chel Wines, and other small and thin Wines at fifteen pounds the Tun in grosse, and at six pence the quart by Retail; and according to these proportions for greater or lesser quan<g ref="char:EOLhyphen"/>tities, either in Grosse or by Retail: And that none presume to sell at higher Prizes during the next yeer now ensuing, whereof the Clerk of the Crown is to take notice, and to see the same proclaimed the next Terme in Chancery, according to the Statute. And the said
+<pb facs="tcp:185886:2"/>
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ds did think fit, that a Proclamation should be drawn up for our Signature, to be pub<g ref="char:EOLhyphen"/>lished thorowout this Kingdom, declaring the Prizes of Wines as they are rated, as afore<g ref="char:EOLhyphen"/>said, to be observed in all the Ports of this Kingdom, and within ten miles of the Ports, allowing some addition of price from places which are more remote, so as the same do not exceed the proportion of a peny in the Quart, or four pounds in the Tun, for the distance of thirty miles of land carriage from the next convenient Port.</p>
+            <p>Now that all excuse may be removed from such as inhabit in remote parts of this Realm, and that such as shall be found Delinquents herein, may acknowledge their own wilfulnesse the cause of the danger, and penaltie they fall into after advertisement, Our Will and Plea<g ref="char:EOLhyphen"/>sure is, and by this Our Proclamation We do publish and declare, That the said Prizes and Rates so ordered and set, shall be observed and kept, according as by the Lawes of this Kingdom they ought to be, for one yeer next following, in all Our Ports, and other places within this Realm, where Wines are landed, and within ten miles of those Ports and pla<g ref="char:EOLhyphen"/>ces. And it is Our Pleasure, that in places where Wines by Land carriage shall be con<g ref="char:EOLhyphen"/>veyed more then ten miles from the next Port, the severall sorts of Wines aforesaid, shall and may be sold according to the Rates aforesaid, allowing four pounds in the Tun, or one peny in the Quart for the carriage thereof upon Land, every thirty miles from the next convenient Port, And according to that proportion, and not at greater Rates: Straitly charging and commanding such of Our Subjects, and others whom it shall concern, that none of them, during the time aforesaid, presume to sell any of the said Wines at higher Rates, then by this Our Proclamation are declared, under the forfeitures and penalties mentioned in the said Statute, and other the Lawes and Statutes of this Realm ordain<g ref="char:EOLhyphen"/>ed in that behalf.</p>
+            <closer>
+               <dateline>Given at Our Court at VVindsor, <date>the two and twentieth day of January, in the seventeenth yeer of Our Reign.</date>
+               </dateline>
+               <lb/> ❧ God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL. 1641.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
